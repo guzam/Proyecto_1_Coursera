@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="216dp"
+        android:layout_marginTop="180dp"
         android:text="@string/strWelcome"
         android:textColor="@color/white"
         android:textSize="50sp"
